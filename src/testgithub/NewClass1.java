@@ -6,7 +6,7 @@ package testgithub;
 
 /**
  *
- * @author picos
+ * @author picos new
  */
 public class NewClass1 {
     
